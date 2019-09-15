@@ -1,0 +1,11 @@
+.form-container {
+    border: 1px solid black;
+    background-color: grey;
+    border-radius: 6px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+.form-container button{
+    width: 150px;
+}
